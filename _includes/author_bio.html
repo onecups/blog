@@ -1,0 +1,19 @@
+<div class="about-author">
+<div class="author-avatar-wrap">
+{% if author.picture %}
+<span class="author-avatar lazy-ify" data-image="{{ author.picture | default: 'default-image.jpg' }}" style="background-image:url({{ author.picture | default: 'default-image.jpg' }})"></span>
+{% endif %}
+</div>
+<div class="author-description">
+<span class="author-title"><a href="{{ '/author/' | append: page.author | relative_url }}" rel="noopener noreferrer">{{ author.name }}</a></span>
+{% if author.bio %}
+<p class="author-text excerpt">{{ author.bio }}</p>
+{% endif %}
+<ul class="author-links social social-color">
+<li class="facebook">{% if author.facebook %}<a href="https://facebook.com/{{ author.facebook }}" title="facebook" rel="noopener noreferrer" target="_blank"></a>{% endif %}</li>
+<li class="twitter">{% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" title="twitter" rel="noopener noreferrer" target="_blank"></a>{% endif %}</li>
+<li class="linkedin">{% if author.linkedin %}<a href="https://www.linkedin.com/in/{{ author.linkedin }}" title="linkedin" rel="noopener noreferrer" target="_blank"></a>{% endif %}</li>
+<li class="external-link">{% if author.website %}<a href="{{ author.website }}" title="external-link" rel="noopener noreferrer" target="_blank"></a>{% endif %}</li>
+</ul>
+</div>
+</div>
