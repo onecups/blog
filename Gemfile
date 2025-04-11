@@ -1,11 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-#gem "github-pages", "~> 228", group: :jekyll_plugins
-# gem 'rake-jekyll'
+gem 'jekyll', '~> 4.3.2'
+gem 'webrick', '~> 1.8'
 gem 'rake', '~> 13.0'
+gem 'ffi', '~> 1.15'  
+
 gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 
+# Plugin Jekyll
 group :jekyll_plugins do
   gem 'jekyll-paginate-v2'
   gem 'jekyll-auto-authors'
@@ -18,6 +20,3 @@ group :jekyll_plugins do
   gem 'kramdown-parser-gfm'
   gem 'jekyll-postcss-v2'
 end
-
-gem "webrick", "~> 1.8"
-
