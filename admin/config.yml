@@ -1,12 +1,12 @@
 backend:
   name: github
   repo: onecups/blog
-  branch: main
+  branch: main 
   site_domain: trendioweb.netlify.app
-oauth:
-    client_id: Ov23li2058Qm5xDiq5TZ
-    client_secret: a9582acf03b1e1daee23df425bf89e80540e2ee8
 
+oauth:
+  client_id: Ov23li2058Qm5xDiq5TZ
+  client_secret: a9582acf03b1e1daee23df425bf89e80540e2ee8
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
