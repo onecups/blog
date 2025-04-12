@@ -6,9 +6,6 @@ url: https://www.trendio.homes # the base hostname and protocol for your site, e
 locale: en_US
 permalink: pretty
 baseurl: ""
-twitter:
-  username: SCIAM_FR
-  card: summary
 highlighter: rouge
 
 logo: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggaBbKL92jpvLy7G61zro8cp9SiR6wwwmqMWRlMX-j1TksuMiP09ZI13MOpU_Xg5LYKaMp77crrmF8PHZHtbQayrX1Y_Cmp5t_tNto97SgRVSPiLbWQlAx62i-mkbx92Dic0h0mXrq5-UD3q7tudrGh3kUJe80vQvzMTZ5qvroXSxwVRX5hKgmcrS3opw/s221/logo.png'
@@ -40,23 +37,6 @@ exclude:
 
 keep_files:
   - images
-
-asciidoc: {}
-
-asciidoctor:
-  base_dir: :docdir
-  safe: unsafe
-  excerpt_separator: "\n//more\n"
-  attributes:
-    sectlinks: true
-    stem: latexmath
-    idseparator: _
-    source-highlighter: rouge
-    source-language: java
-    rouge-css: style
-    rouge-style: github
-    icons: font
-    imagesdir: "/images"
 
 plugins:
   - jekyll-paginate-v2
@@ -116,14 +96,3 @@ autopages:
 
 feed:
   excerpt_only: true
-
-toc:
-  min_level: 2
-  max_level: 6
-  ordered_list: false
-  no_toc_section_class: no_toc_section
-  list_id: toc
-  list_class: section-nav
-  sublist_class: ''
-  item_class: toc-entry
-  item_prefix: toc-
