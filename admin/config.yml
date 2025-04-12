@@ -2,7 +2,7 @@ backend:
   name: github
   repo: onecups/blog
   branch: main
-  site_domain: www.trendio.homes
+  site_domain: trendioweb.netlify.app
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
