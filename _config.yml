@@ -22,18 +22,11 @@ defaults:
     values:
       permalink: /:slug/
       toc: true
-      
-social-network-links:
-  github: 'SCIAM-FR'
-  twitter: 'SCIAMVOX'
-  medium: 'sciam-fr'
-  linkedin: 'sciamfr'
-  www: 'sciam.fr'
-  gitlab: 'sciam'
 
+include:
+  - admin
+  
 exclude:
-  - LICENSE.adoc
-  - README.adoc
   - Gemfile
   - Gemfile.lock
   - Rakefile
