@@ -2,7 +2,7 @@ backend:
   name: github
   repo: onecups/blog
   branch: main 
-  site_domain: trendioweb.netlify.app
+  site_domain: www.trendio.homes
 
 oauth:
   client_id: Ov23li2058Qm5xDiq5TZ
