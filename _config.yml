@@ -18,6 +18,7 @@ defaults:
     values:
       permalink: /:slug/
       toc: true
+      layout: post
 
 include:
   - admin
