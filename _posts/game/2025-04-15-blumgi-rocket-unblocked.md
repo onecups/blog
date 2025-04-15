@@ -6,7 +6,7 @@ slug: blumgi-rocket-unblocked
 video: https://tse1.mm.bing.net/th?q=blumgi-rocket-unblocked
 categories: [Car]
 tags: [Blumgi Rocket, Unblocked Games, Online Games, Arcade, Free Games]
-author: ff Games
+author: richard
 popular: true
 date: 2025-04-15
 permalink: /game/blumgi-rocket-unblocked
