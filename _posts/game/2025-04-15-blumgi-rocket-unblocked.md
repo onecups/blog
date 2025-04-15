@@ -4,7 +4,7 @@ title: "Blumgi Rocket: Experience High-Speed Thrills Unblocked"
 description: "Play Blumgi Rocket unblocked online for free at ff Games. Get ready for a fast-paced, action-packed arcade adventure that tests your reflexes and timing skills."
 slug: blumgi-rocket-unblocked
 video: https://tse1.mm.bing.net/th?q=blumgi-rocket-unblocked
-categories: [Car, game]
+categories: [car, game]
 tags: [Blumgi Rocket, Unblocked Games, Online Games, Arcade, Free Games]
 author: richard
 popular: true
