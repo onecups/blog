@@ -49,5 +49,5 @@ Trendio brings you the best **unblocked games** directly in your browser. With *
 
 ---
 
-**Get behind the wheel. Drift like a pro. Play [Poly Track Unblocked](https://lolygames.github.io/poly-track/) now on Trendio!**
+**Get behind the wheel. Drift like a pro. Play [Poly Track Unblocked](https://www.trendio.homes/game/poly-track-unblocked) now on Trendio!**
 
