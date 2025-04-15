@@ -15,6 +15,12 @@ gameimgID: https://tse1.mm.bing.net/th?q=blumgi-rocket-unblocked
 gametitleID: Blumgi Rocket
 ---
 
+{% include gamesplayer.html
+  src=page.gameplayID
+  image=page.gameimgID
+  title=page.gametitleID
+%}
+
 ## About Blumgi Rocket
 
 **Blumgi Rocket** is a dynamic arcade game that combines explosive propulsion and platforming in one exhilarating experience. In this game, you control a high-speed rocket car as it launches through obstacle-filled levels, blasting over gaps, spikes, and traps with gravity-defying jumps.
