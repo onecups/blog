@@ -3,7 +3,7 @@ layout: post
 title: "Smash Karts: Explosive Kart Battles — Unblocked on Trendio"
 description: "Jump into chaotic multiplayer kart battles with Smash Karts — unblocked and free to play now on Trendio!"
 slug: smash-karts-unblocked
-video: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBzShM2i_VAT166EEjFeJTdEo5vqJ-lLqa69x0iL7npC4WV6-Jao57NfMgKL2lh08EVxI7MZ4ZOr1dnpd1bHFGdadxubLMmTKRgB5qkjUkLDPcp16GZCbmbQjOXh1AKkaBzNxh0EcOgo3ujCalc8qMe3GDrp0lxR9kAoB1Ldu4GSTJaXYT0xOdXsPyNjY/s900/smash-karts-logo.webp
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBzShM2i_VAT166EEjFeJTdEo5vqJ-lLqa69x0iL7npC4WV6-Jao57NfMgKL2lh08EVxI7MZ4ZOr1dnpd1bHFGdadxubLMmTKRgB5qkjUkLDPcp16GZCbmbQjOXh1AKkaBzNxh0EcOgo3ujCalc8qMe3GDrp0lxR9kAoB1Ldu4GSTJaXYT0xOdXsPyNjY/s900/smash-karts-logo.webp
 categories: [car, game]
 tags: [Multiplayer Kart Game, Action Racing, Power-Ups, Combat Karting, Unblocked Games]
 author: richard
