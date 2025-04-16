@@ -3,7 +3,7 @@ layout: post
 title: "Survival Race: Master the Ultimate Unblocked Challenge"
 description: "Dive into Survival Race unblocked at ff Games – a high-intensity driving game where speed and strategy collide. Play online now for free!"
 slug: survival-race-unblocked
-video: https://tse1.mm.bing.net/th?q=survival-race-unblocked
+image: https://tse1.mm.bing.net/th?q=survival-race-unblocked
 categories: [game, car]
 tags: [Survival Race, Unblocked Games, Racing, Free Games, Online Games]
 author: richard
