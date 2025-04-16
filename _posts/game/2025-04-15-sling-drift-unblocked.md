@@ -3,7 +3,7 @@ layout: post
 title: "Sling Drift: Master the Corners — Unblocked and Free on Trendio"
 description: "Swing through tight turns and chase your high score in Sling Drift — now unblocked and ready to play on Trendio for free!"
 slug: sling-drift-unblocked
-video: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8c48gPMUiYH9ewEhtyyusug3_HLY5oah_I6ly3IxwobGUM4UVC4GOFdL9CYAiRlQ2jdUVF5IykIVqYPkP75VSDwATSgREYbodrvC5epZHu99VrcSjL37UYhnwkfHFLI3Ya4x7U3LB1WF9NuAEGCEPpjouG1exYWuFeN5VP6qj2c9I7gy6drgv9dcSDSI/s512/sling-drift-logo.webp
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8c48gPMUiYH9ewEhtyyusug3_HLY5oah_I6ly3IxwobGUM4UVC4GOFdL9CYAiRlQ2jdUVF5IykIVqYPkP75VSDwATSgREYbodrvC5epZHu99VrcSjL37UYhnwkfHFLI3Ya4x7U3LB1WF9NuAEGCEPpjouG1exYWuFeN5VP6qj2c9I7gy6drgv9dcSDSI/s512/sling-drift-logo.webp
 categories: [car, game]
 tags: [Drift Game, Reflex Game, Casual Racing, One-Tap Game, Unblocked Games]
 author: richard
