@@ -47,7 +47,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-toc
-  - jekyll-compress-html
  
 pagination:
   enabled: true
