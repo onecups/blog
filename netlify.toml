@@ -9,3 +9,4 @@
 
 [[plugins]]
   package = "netlify-plugin-minify-html"
+  package = "netlify-plugin-inline-critical-css"
