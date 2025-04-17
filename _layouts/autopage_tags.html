@@ -8,7 +8,13 @@ layout: default
 <div class="entry-header blog-entry-header p-eh has-meta">
 <nav id="breadcrumb"><a class="home" href="/">Home</a><em class="delimiter"></em>{{ page.autopages.display_name | default: "Undefined" }}</nav>
  
-<title>{{ page.autopages.display_name | replace: '-', ' ' | capitalize_each_word }} News Today | Trendio</title>
+{% assign words = page.autopages.display_name | replace: '-', ' ' | split: ' ' %}
+{% assign nice_title = "" %}
+{% for word in words %}
+  {% assign nice_title = nice_title | append: word | capitalize | append: ' ' %}
+{% endfor %}
+<title>{{ nice_title | strip }} News Today | Trendio</title>
+
 
 <h1 class="entry-title"># {{ page.autopages.display_name | default: "No Tag" }}</h1>
 
