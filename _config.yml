@@ -73,7 +73,6 @@ autopages:
   tags:
     layouts:
       - "autopage_tags.html"
-    title: ":tag News Today | Trendio"
     permalink: "/tag/:tag"
     silent: false
     slugify:
