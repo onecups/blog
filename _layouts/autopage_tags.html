@@ -8,7 +8,7 @@ layout: default
 <div class="entry-header blog-entry-header p-eh has-meta">
 <nav id="breadcrumb"><a class="home" href="/">Home</a><em class="delimiter"></em>{{ page.autopages.display_name | default: "Undefined" }}</nav>
  
-<title>{{ page.autopages.display_name | replace: '-', ' ' | split: ' ' | map: 'capitalize' | join: ' ' }} News Today | Trendio</title>
+<title>{{ page.autopages.display_name | default: "Undefined" }} News Today | Trendio</title>
 
 <h1 class="entry-title"># {{ page.autopages.display_name | default: "No Tag" }}</h1>
 
