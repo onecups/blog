@@ -73,6 +73,7 @@ autopages:
   tags:
     layouts:
       - "autopage_tags.html"
+    title: ':tag News Today'
     permalink: "/tag/:tag"
     silent: false
     slugify:
