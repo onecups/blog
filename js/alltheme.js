@@ -21,11 +21,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 $(document).ready(function() {
-  $(".supermag-pro-mobile-menu .has-sub").append('<div class="submenu-toggle"/>');
+  $(".litespot-pro-mobile-menu .has-sub").append('<div class="submenu-toggle"/>');
 
-  $(".supermag-pro-mobile-menu .mega-menu").find(".submenu-toggle").remove();
+  $(".litespot-pro-mobile-menu .mega-menu").find(".submenu-toggle").remove();
 
-  $(".supermag-pro-mobile-menu .has-sub").on("click", function(e) {
+  $(".litespot-pro-mobile-menu .has-sub").on("click", function(e) {
     
     if ($(this).hasClass("has-sub")) {
       e.preventDefault(); 
@@ -39,7 +39,7 @@ $(document).ready(function() {
   });
 
 
-  $(".mobile-menu-toggle, .hide-supermag-pro-mobile-menu, .overlay").on("click", function() {
+  $(".mobile-menu-toggle, .hide-litespot-pro-mobile-menu, .overlay").on("click", function() {
     $("body").toggleClass("nav-active");
   });
 });
@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 $(document).ready(function() {
-  $("#supermag-pro-load-more-link").on("click", function(e) {
+  $("#litespot-pro-load-more-link").on("click", function(e) {
     e.preventDefault();
     var loadMoreUrl = $(this).attr("href");
     
@@ -105,11 +105,11 @@ $(document).ready(function() {
         newPosts.find(".index-post").addClass("post-animated post-fadeInUp");
         $(".blog-posts").append(newPosts.html());
         
-        var nextPageLink = $(data).find("#supermag-pro-load-more-link");
+        var nextPageLink = $(data).find("#litespot-pro-load-more-link");
         if (nextPageLink.length) {
-          $("#supermag-pro-load-more-link").attr("href", nextPageLink.attr("href")).show();
+          $("#litespot-pro-load-more-link").attr("href", nextPageLink.attr("href")).show();
         } else {
-          $("#supermag-pro-load-more-link").hide();
+          $("#litespot-pro-load-more-link").hide();
           $("#blog-pager .no-more").addClass("show");
         }
       },
