@@ -46,17 +46,16 @@ $(document).ready(function() {
 
 
 $(document).ready(function() {
-  $(".show-search").on("click", function() {
-    $("body").addClass("search-active"); 
-    $("#main-search-wrap").fadeIn(170).find("input").focus(); 
-  });
+    $(".show-search").on("click", function() {
+      $("body").addClass("search-active");
+      $("#main-search-wrap").fadeIn(170).find("input").focus();
+    });
 
-  // Hide the search bar when the 'hide-search' button is clicked
-  $(".hide-search").on("click", function() {
-    $("body").removeClass("search-active"); 
-    $("#main-search-wrap").fadeOut(170).find("input").val("").blur(); 
+    $(".search-close").on("click", function() {
+      $("body").removeClass("search-active");
+      $("#main-search-wrap").fadeOut(170); 
+    });
   });
-});
 
 
 
