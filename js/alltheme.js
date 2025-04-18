@@ -128,7 +128,7 @@ $(document).ready(function() {
 
 
   $(document).ready(function() {
-    $(".supermag-pro-share-links .window-ify").on("click", function() {
+    $(".litespot-pro-share-links .window-ify").on("click", function() {
       var e = $(this), 
           t = e.data("url"), 
           a = e.data("width"), 
@@ -141,7 +141,7 @@ $(document).ready(function() {
       window.open(t, "_blank", "scrollbars=yes,resizable=yes,toolbar=no,location=yes,width=" + a + ",height=" + s + ",left=" + i + ",top=" + n).focus();
     });
 
-    $(".supermag-pro-share-links").each(function() {
+    $(".litespot-pro-share-links").each(function() {
       var e = $(this);
       e.find(".show-hid a").on("click", function() {
         e.toggleClass("show-hidden"); 
