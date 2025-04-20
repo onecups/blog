@@ -70,4 +70,4 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           # Pastikan ini menggunakan halaman yang benar dan setting sudah pas
-          branch: gh-pages  # Ganti dengan branch yang sesuai jika berbeda
+          branch: main  # Ganti dengan branch yang sesuai jika berbeda
