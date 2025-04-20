@@ -64,10 +64,12 @@ jobs:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     needs: build  # Dependensi pada build job tetap ada jika kamu butuh hasil build sebelumnya
+    environment:
+      name: production  # Ganti sesuai dengan environment yang kamu gunakan
+      url: https://www.trendio.homes/  # URL halaman GitHub Pages
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          # Pastikan ini menggunakan halaman yang benar dan setting sudah pas
           branch: main  # Ganti dengan branch yang sesuai jika berbeda
