@@ -8,7 +8,7 @@ categories: [Hardware, GPUs, Guides]
 tags: [AMD, Radeon PRO, Workstation, GPU Comparison, Creative Workflows]
 author: richard
 date: 2025-04-21
-permalink: /hardware/radeon-pro-vs-consumer-gpus/
+permalink: /hardware/radeon-pro-vs-consumer-gpus
 ---
 
 ## Radeon PRO vs Consumer GPUs: Which One Should You Choose?
