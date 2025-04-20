@@ -8,7 +8,7 @@ categories: [Hardware, GPUs, AMD]
 tags: [AMD, Radeon PRO, Navi 48, Workstation, Graphics Card, GPU]
 author: richard
 date: 2025-04-21
-permalink: /hardware/amd-radeon-pro-navi-48-xtw-32gb/
+permalink: /hardware/amd-radeon-pro-navi-48-xtw-32gb
 ---
 
 ## AMD Launches Powerful New Radeon PRO with Navi 48 XTW GPU and 32GB VRAM
