@@ -38,6 +38,8 @@ footmenu:
   url: "/contact"
 - title: Privacy Policy
   url: "/privacy-policy"
+- title: Disclaimer
+  url: "/disclaimer"
 - title: Cookie Policy
   url: "/cookie-policy"
 - title: Terms & Conditions
