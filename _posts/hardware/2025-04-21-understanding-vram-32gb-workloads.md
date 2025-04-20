@@ -8,7 +8,7 @@ categories: [Hardware, GPUs, Guides]
 tags: [VRAM, GPU Memory, Creative Workloads, AMD, GPU Performance]
 author: richard
 date: 2025-04-21
-permalink: /hardware/understanding-vram-32gb-workloads/
+permalink: /hardware/understanding-vram-32gb-workloads
 ---
 
 ## Why 32GB of VRAM Is a Game-Changer for Creative Professionals
