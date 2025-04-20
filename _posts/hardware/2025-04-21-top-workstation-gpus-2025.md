@@ -8,7 +8,7 @@ categories: [Hardware, GPUs, Buying Guide]
 tags: [Workstation GPU, Radeon PRO, NVIDIA RTX, GPU Comparison, 2025 Hardware]
 author: richard
 date: 2025-04-21
-permalink: /hardware/top-workstation-gpus-2025/
+permalink: /hardware/top-workstation-gpus-2025
 ---
 
 ## Best Workstation GPUs of 2025: Radeon PRO, NVIDIA RTX, and More
