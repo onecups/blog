@@ -33,12 +33,12 @@ footmenu:
 - title: Home
   url: "/"
 - title: About Us
-  url: "/about-us"
+  url: "/about"
 - title: Contact
-  url: "/contact-us"
+  url: "/contact"
 - title: Privacy Policy
   url: "/privacy-policy"
 - title: Cookie Policy
   url: "/cookie-policy"
-- title: Terms of Use
-  url: "/terms-of-use"
+- title: Terms & Conditions
+  url: "/terms-and-conditions"
