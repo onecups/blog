@@ -8,7 +8,7 @@ categories: [Hardware, GPUs, AMD]
 tags: [AMD, Navi 48, GPU, RDNA 4, Specs, Performance]
 author: richard
 date: 2025-04-21
-permalink: /hardware/amd-navi-48-specs-overview/
+permalink: /hardware/amd-navi-48-specs-overview
 ---
 
 ## AMD Navi 48 GPU Series: What to Expect
