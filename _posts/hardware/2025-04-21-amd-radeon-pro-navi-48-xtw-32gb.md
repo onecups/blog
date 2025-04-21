@@ -44,9 +44,9 @@ The Radeon PRO series has always been tailored for stability, reliability, and c
 ## Read Also
 
 - [What to Expect from AMD’s Navi 48 Series: Performance & Specs Overview](/hardware/amd-navi-48-specs/)
-- [Radeon PRO vs Consumer GPUs: Which One is Right for Your Workflow?](/guide/radeon-pro-vs-gaming-gpus/)
+- [Radeon PRO vs Consumer GPUs: Which One is Right for Your Workflow?](/hardware/radeon-pro-vs-gaming-gpus/)
 - [Top Workstation Graphics Cards in 2025: AMD, NVIDIA, and More](/hardware/top-workstation-gpus-2025/)
-- [Understanding VRAM: Why 32GB Matters for Creative Workloads](/guide/understanding-vram-2025/)
+- [Understanding VRAM: Why 32GB Matters for Creative Workloads](/hardware/understanding-vram-2025/)
 
 ---
 
