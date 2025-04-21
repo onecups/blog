@@ -20,9 +20,7 @@ defaults:
       toc: true
       layout: post
 
-include:
-  - admin
-  
+
 exclude:
   - Gemfile
   - Gemfile.lock
