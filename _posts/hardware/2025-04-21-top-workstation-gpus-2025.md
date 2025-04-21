@@ -72,9 +72,9 @@ Before buying, consider:
 
 ### 📎 Related Articles:
 
-- [Radeon PRO vs Consumer GPUs: Which One is Right for Your Workflow?](/guide/radeon-pro-vs-consumer-gpus/)
+- [Radeon PRO vs Consumer GPUs: Which One is Right for Your Workflow?](/hardware/radeon-pro-vs-consumer-gpus/)
 - [What to Expect from AMD’s Navi 48 Series](/hardware/amd-navi-48-specs-overview/)
-- [Understanding VRAM: Why 32GB Matters for Creative Workloads](/guide/understanding-vram-2025/)
+- [Understanding VRAM: Why 32GB Matters for Creative Workloads](/hardware/understanding-vram-2025/)
 
 ---
 
