@@ -78,7 +78,7 @@ You should seriously consider a GPU with 32GB+ VRAM if:
 📎 **Related Reading**:
 
 - [Top Workstation Graphics Cards in 2025](/hardware/top-workstation-gpus-2025/)
-- [Radeon PRO vs Consumer GPUs: Which One is Right for You?](/guide/radeon-pro-vs-consumer-gpus/)
+- [Radeon PRO vs Consumer GPUs: Which One is Right for You?](/hardware/radeon-pro-vs-consumer-gpus/)
 - [What to Expect from AMD’s Navi 48 Series](/hardware/amd-navi-48-specs-overview/)
 
 💬 *What’s your current GPU and how much VRAM does it have? Let us know in the comments below or tag us on social media @TrendioHomes!*
