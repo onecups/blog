@@ -79,27 +79,27 @@ pagination:
   </div>
   <div class="litespot-pro-related-content">
     <div class="related-posts">
-      {% assign related_posts = site.posts | where_exp: "post", "post.categories == page.categories" | limit:3 %}
+      {% assign related_posts = site.posts | where_exp: "post", "post != page and post.categories | join: ',' | downcase contains page.categories[0] | downcase" | limit:6 %}
       {% if related_posts.size > 0 %}
         {% for post in related_posts %}
         <div class="related-item item-{{ forloop.index0 }}">
           <a title="{{ post.title }}" class="entry-image-wrap {% if post.video %} is-video {% elsif post.image %} is-image {% endif %}" href="{{ post.url }}">
-           {% if post.video %}
-    <span class="entry-thumb lazy-ify" data-image="{{ post.video }}" 
-    style="background-image:url({{ post.video }})"></span>
-    {% elsif post.image %}
-    <span class="entry-thumb lazy-ify" data-image="{{ post.image }}" 
-    style="background-image:url({{ post.image }})"></span>
-    {% else %}
-    <span class="entry-thumb lazy-ify" data-image="default-image.jpg" 
-    style="background-image:url(default-image.jpg)"></span>
-    {% endif %}
+            {% if post.video %}
+              <span class="entry-thumb lazy-ify" data-image="{{ post.video }}" 
+              style="background-image:url({{ post.video }})"></span>
+            {% elsif post.image %}
+              <span class="entry-thumb lazy-ify" data-image="{{ post.image }}" 
+              style="background-image:url({{ post.image }})"></span>
+            {% else %}
+              <span class="entry-thumb lazy-ify" data-image="default-image.jpg" 
+              style="background-image:url(default-image.jpg)"></span>
+            {% endif %}
           </a>
           <div class="entry-header">
             <h2 class="entry-title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
             <div class="entry-meta">
               <span class="entry-time mi">
-                <time class="published" datetime="{{ post.date | date: '%B %d, %Y' }}">{{ post.date | date: '%B %d, %Y' }}</time>
+                <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %d, %Y' }}</time>
               </span>
             </div>
           </div>
