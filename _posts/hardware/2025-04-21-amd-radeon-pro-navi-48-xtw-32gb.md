@@ -4,7 +4,7 @@ title: "AMD Unveils New Radeon PRO Featuring Navi 48 XTW GPU and 32GB VRAM"
 description: "AMD introduces its latest Radeon PRO graphics card, equipped with the powerful Navi 48 XTW GPU and 32GB of onboard memory—ideal for creative professionals and workstation users."
 slug: amd-radeon-pro-navi-48-xtw-32gb
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmO7seI_BI-jb8dHghu23wjZMkQ1YNc7hKnuuyK7cHioSVqEAmgPlEvuT1qSBQblFCbB9HyMqJY8s-eyne4V_0wqlAiuV-BGThx6sJY_iy2utDs1VynYz5O0lUPScqCqnXxs8d9P3CVliMDT46uUIwVkfwjEPhgs5krqMyl4WsulT6tX-sIBNaTMvR2No/s2500/RADEON-PRO-NAVI-48-HERO.jpg
-categories: [Hardware, GPUs, AMD]
+categories: [hardware, GPUs, AMD]
 tags: [AMD, Radeon PRO, Navi 48, Workstation, Graphics Card, GPU]
 author: richard
 date: 2025-04-21
