@@ -4,7 +4,7 @@ title: "Radeon PRO vs Consumer GPUs: Which One is Right for Your Workflow?"
 description: "A comparison between AMD Radeon PRO and consumer-grade GPUs to help creatives, gamers, and professionals decide the best graphics card for their needs."
 slug: radeon-pro-vs-consumer-gpus
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKVDcKvZ9tDTRUdccr7-6ilyOpt66kXBFlrsauDm0v1RIv-w0PbIOrIriM2fX8Aic8oNyT9XFINfvKNzhg24eKUpbdkjvTDXIe6SAyFTYBeL4bhorZ7LfYMNyXktC8-jsW2hkoqRWwDItvygIiBGVwfZ-Oejyse8OyTNFbBkcpNKw54P9BFOcpZT8NUHY/s1200/Pro-vs-Consumer-GPUs-Whats-the-difference-Twitter_1200x675.webp
-categories: [Hardware, GPUs, Guides]
+categories: [hardware, GPUs, Guides]
 tags: [AMD, Radeon PRO, Workstation, GPU Comparison, Creative Workflows]
 author: richard
 date: 2025-04-21
