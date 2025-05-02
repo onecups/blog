@@ -1,3 +1,6 @@
+---
+layout: post
+---
 <div class="widget HTML is-visible type-grid" data-version="2" id="HTML7">
   <div class="widget-title title-wrap">
     <h3 class="title">Game Online Unblocked</h3>
