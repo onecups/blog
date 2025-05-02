@@ -4,7 +4,7 @@ title: "Understanding VRAM: Why 32GB Matters for Creative Workloads"
 description: "Explore how 32GB of VRAM enhances performance for creative professionals handling video editing, 3D rendering, simulations, and AI workloads."
 slug: understanding-vram-32gb-workloads
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgophH5ycqSSG1JmE03TCkNJX-Pwn2SpG8KAJQnf1E7Q3JM1NSMqmSTjed2M_QVMLVlcy7o6bkV3G0opetkoUOSIYvRTK25Qr0R9nx80xahEpC9BEV0VyC5ANOg3ACzHNUrebYCeq4_q-wqmx42L0yt_DkAEeYiXEaopDHY5F5eQsOheLqmR_6MI0Y5DTE/s640/vram-32gb-workloads.jpg
-categories: [Hardware, GPUs, Guides]
+categories: [hardware, GPUs, Guides]
 tags: [VRAM, GPU Memory, Creative Workloads, AMD, GPU Performance]
 author: richard
 date: 2025-04-21
