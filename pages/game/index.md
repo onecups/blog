@@ -7,7 +7,7 @@ pagination:
   category: game
 ---
 
-<main id='main-wrapper'><div class="main section" id="main" name="Main Posts">
+<div class="main section" id="main" name="Main Posts">
   
 <div class="widget HTML is-visible type-grid" data-version="2" id="HTML7">
   <div class="widget-title title-wrap">
@@ -53,4 +53,4 @@ pagination:
   {% endif %}
 </div>
 
-</div></main>
+</div>
