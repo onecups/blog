@@ -9,7 +9,7 @@ pagination:
 
 <div class="flex-center" id="content-wrapper" style="transform: none;"><div class="container row-x1" style="transform: none;">
 <!-- Post -->        
-<main id='main-wrapper'><div class="main section" id="main" name="Main Posts"><div class="widget Blog" data-version="2" id="Blog1">
+<main class="has-cs2" id='main-wrapper'><div class="main section" id="main" name="Main Posts"><div class="widget Blog" data-version="2" id="Blog1">
 
   {% assign posts = paginator.posts %}
   {% assign category_name = "Game" %}
