@@ -4,7 +4,7 @@ title: "What to Expect from AMD’s Navi 48 Series: Performance & Specs Overview
 description: "An in-depth look at AMD’s upcoming Navi 48 GPU series, including expected specs, performance targets, and how it compares to current-gen GPUs."
 slug: amd-navi-48-specs-overview
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLydi2ZnwmbOHrX1AJExNx-8oLXL9R7n2FUg3uTSm_nXUCymh-AOnRn1N9jAJAWe4CwL824Ph9uCWpRqsKz3FgXWFUr-4b-6T9cEjd-zE5IAIEI7IUqGeE3gfKB4LU_TUpxzgNrK_UV2Qj52vNDJ-yG5qQXmJ6nRw8PM3QC2YjIxaPUu-MUa0zKuMHv7M/s728/2734106-radeon-pro-v-teaser-728x410.jpg
-categories: [Hardware, GPUs, AMD]
+categories: [hardware, GPUs, AMD]
 tags: [AMD, Navi 48, GPU, RDNA 4, Specs, Performance]
 author: richard
 date: 2025-04-21
