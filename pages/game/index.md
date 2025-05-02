@@ -7,8 +7,8 @@ pagination:
   category: game
 ---
 
-<div class="main section" id="main" name="Main Posts">
-  
+<div class="flex-center" id="content-wrapper" style="transform: none;"> <div class="container row-x1" style="transform: none;"> 
+   <div class="content-section section" id="content-section-2" name="Content Section 2">
 <div class="widget HTML is-visible type-grid" data-version="2" id="HTML7">
   <div class="widget-title title-wrap">
     <h3 class="title">Game Online Unblocked</h3>
@@ -53,4 +53,4 @@ pagination:
   {% endif %}
 </div>
 
-</div>
+</div></div></div>
