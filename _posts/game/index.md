@@ -1,0 +1,45 @@
+<div class="widget HTML is-visible type-grid" data-version="2" id="HTML7">
+  <div class="widget-title title-wrap">
+    <h3 class="title">Game Online Unblocked</h3>
+    <a href="/category/game/" class="wt-l">View all</a>
+  </div>
+
+  {% assign game_posts = site.posts | where_exp: "post", "post.categories contains 'game'" %}
+
+  {% if game_posts.size > 0 %}
+  <div class="widget-content">
+    <div class="content-block grid-items">
+      {% for post in game_posts limit:6 %}
+      <div class="grid-item item-{{ forloop.index0 }}">
+<a title="{{ post.title }}" class="entry-image-wrap {% if post.video %} is-video {% elsif post.image %} is-image {% endif %}" href="{{ post.url }}">
+{% if post.video %}
+    <span class="entry-thumb lazy-ify" data-image="{{ post.video }}" 
+    style="background-image:url({{ post.video }})"></span>
+    {% elsif post.image %}
+    <span class="entry-thumb lazy-ify" data-image="{{ post.image }}" 
+    style="background-image:url({{ post.image }})"></span>
+    {% else %}
+    <span class="entry-thumb lazy-ify" data-image="default-image.jpg" 
+    style="background-image:url(default-image.jpg)"></span>
+    {% endif %}
+        </a>
+        <div class="entry-header">
+          <h2 class="entry-title">
+            <a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>
+          </h2>
+          <div class="entry-meta">
+            <span class="entry-time mi">
+              <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+                {{ post.date | date: '%Y-%m-%d' }}
+              </time>
+            </span>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <p>No game posts available.</p>
+  {% endif %}
+</div>
