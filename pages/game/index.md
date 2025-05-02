@@ -13,7 +13,7 @@ pagination:
 
   {% assign posts = paginator.posts %}
   {% assign category_name = "Game" %}
-
+<div class="blog-posts-wrap">
   <div class="queryMessage "><span class="query-info query-label query-success">{{ category_name }}</span></div>
 
   <div>
@@ -54,7 +54,7 @@ pagination:
     {% else %}
       <p>No game posts available.</p>
     {% endif %}
-  </div>
+  </div> </div>
 
   {% include pagination.html %}
 
