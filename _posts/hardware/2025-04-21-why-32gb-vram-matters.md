@@ -5,7 +5,7 @@ description: "Discover why 32GB of VRAM is becoming essential for high-end gamin
 slug: why-32gb-vram-matters
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWPzK-szd7j9jiJeAMeKzBFV7eBQqcEWD7ZKo2Ckwwy53kgifCoqSIMp4zf_NjOC0Fp3nuqCLukDHoXb6bv1ZD9Cd5aomTfGWDIzmV_F0QBn2ZLOo3vpsZX-T1LnI_KpGuwmUpj1UwFgW6v5JwXOpBUL6irroW4fQ1El-gW42FvU762sN5E0eNlQwRY3c/s1024/Why%2032GB%20VRAM%20Matters%20for%20Gaming%20and%20AI%20in%202025.webp
 categories: [hardware]
-tags: [VRAM, GPU, AI, Gaming, PC Hardware, 2025]
+tags: [VRAM, GPU, AI, Gaming, PC Hardware]
 author: richard
 date: 2025-04-21
 permalink: /hardware/why-32gb-vram-matters/
