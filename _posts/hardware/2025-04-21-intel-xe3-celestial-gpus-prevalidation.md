@@ -51,7 +51,7 @@ If successful, Intel’s Xe3 Celestial line could:
 ### 🔗 Related Articles from Trendio
 
 - [Why 32GB VRAM Matters for Gaming and AI in 2025](/hardware/why-32gb-vram-matters/)
-- [Intel’s Arc Battlemage GPU: What We Know So Far](/hardware/intel-arc-battlemage-leak/)
+- [Intel’s Arc Battlemage GPU: What We Know So Far](/hardware/intel-arc-battlemage-gpu/)
 - [AMD RDNA4 vs Intel Xe3: What the Next GPU Battle Looks Like](/hardware/amd-vs-intel-next-gen-gpu/)
 - [How Intel Is Shaping the Future of AI-Accelerated Graphics](/hardware/intel-ai-graphics/)
 
