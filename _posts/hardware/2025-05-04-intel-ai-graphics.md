@@ -5,7 +5,7 @@ description: "Explore how Intel is leading the future of AI-accelerated graphics
 slug: intel-ai-graphics
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDtr_oDNqb1y-t4_Kqiqe4YApIxD7Od5RmHXhbvPUaVzMgMTQjdOgikoPW9ySiuskhLhokUwHmiK36mTOj-EvYN2X71ps1syuVhU8P2GmsJV-SDRTpA4YfI_o4QzQdvakDrduewtucLfhhVB9dOO6D5FnDEY-Foca02NxyLskGMtGzb5CvpJ_6oBL0UI4/s1120/How%20Intel%20Is%20Shaping%20the%20Future%20of%20AI-Accelerated%20Graphics.png
 categories: [hardware]
-tags: [Intel, AI, GPU, Xe, Graphics, Tech]
+tags: tags: [Intel, AI, GPU, Xe, Graphics, Tech]
 author: richard
 date: 2025-05-04
 permalink: /hardware/intel-ai-graphics/
