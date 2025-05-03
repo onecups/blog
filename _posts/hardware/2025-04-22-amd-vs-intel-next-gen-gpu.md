@@ -5,7 +5,7 @@ description: "A deep dive into how AMD’s RDNA4 and Intel’s Xe3 GPU architect
 slug: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8hZ-HRebCycnu1rcQ581sLnjVdQCLthK74Cz-ofKTw_v34K7YJG3bvNif_7570Lo78fKdPvAUmDCaMaPQ8aOj6G4Hg_ukdYdNeerrjXZcdZZqjyi8pVgpDXyhQnen737s8ERHQlpGTFFm9sGSpMqh2xko9CcSNp-1O-TYs9C571K3pWN5yWui0kYPP2w/s1200/AMD%20RDNA4%20vs%20Intel%20Xe3%20What%20the%20Next%20GPU%20Battle%20Looks%20Like.webp
 image: /assets/images/amd-vs-intel-rdna4-xe3.jpg
 categories: [hardware]
-tags: [AMD, Intel, RDNA4, Xe3, GPUs, Gaming, AI, 2025]
+tags: [AMD, Intel, RDNA4, Xe3, GPUs, Gaming, AI]
 author: richard
 date: 2025-04-22
 permalink: /hardware/amd-vs-intel-next-gen-gpu/
