@@ -3,7 +3,7 @@ layout: post
 title: "Intel’s Arc Battlemage GPU: What We Know So Far"
 description: "Intel’s upcoming Arc Battlemage GPU promises major upgrades in performance, architecture, and ray tracing. Here’s everything we know so far in 2025."
 slug: intel-arc-battlemage-gpu
-image: 
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhrwW2G-dPvL94iQF5qrgR7HGrmzSVY0J3ubwA7h8sQMrVDwlqjD5xNCJYJPbvgVsYgNxbuWebNmcgZ2HoVcSstrPBAte3npiQPCIEYR08VG20VVJSSATDp53_XVqrHC9r-jebADkgnQNpH2CBqf61gFB1ZfBJMZ0KxPOROb-DsUSByhWI_Qh66sFXeOs/s1920/intel-arc-battlemage-gpu.jpg
 categories: [hardware]
 tags: [Intel, GPU, Arc Battlemage, Gaming, Graphics Cards]
 author: richard
