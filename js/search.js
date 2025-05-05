@@ -50,7 +50,7 @@
         searchResults.innerHTML = appendString;
       } else {
         searchResults.innerHTML = `
-        <div class="flex items-center justify-center col-span-3"">
+        <div class="flex items-center justify-center col-span-3">
           <div class="text-center">
             <img class="mx-auto mb-6" src="/images/visuals/not-found.png" style="width: 200px; height: 150px;" alt="No results found">
             <p class="text-2xl font-bold text-navysciam">Pas de résultat trouvé</p>
